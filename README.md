@@ -6,8 +6,8 @@
 
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaiogabriel-the&theme=midnight-purple" alt="kaiogabriel-the" width="401" />
-    <img src="https://github-readme-stats.vercel.app/api?username=kaiogabriel-the&show_icons=true&locale=en&theme=midnight-purple" alt="kaiogabriel-the" width="380" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaioGabriel-the&theme=midnight-purple" alt="kaiogabriel-the" width="401" />
+    <img src="https://github-readme-stats.vercel.app/api?username=KaioGabriel-the&show_icons=true&locale=en&theme=midnight-purple" alt="kaiogabriel-the" width="380" />
 </div>
 
 <p align="left">
