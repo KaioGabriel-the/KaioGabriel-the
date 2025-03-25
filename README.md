@@ -10,6 +10,7 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KaioGabriel-the&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="KaioGabriel-the" width="290">
     <img src="https://github-readme-stats.vercel.app/api?username=KaioGabriel-the&show_icons=true&locale=en&theme=tokyonight" alt="KaioGabriel-the" width="380" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KaioGabriel-the&layout=compact&theme=shadow_blue&hide=Other&title_color=84C2C0&bg_color=00000000&text_color=DEDEDE&border_color=00000000">
 </div>
 
 ---
