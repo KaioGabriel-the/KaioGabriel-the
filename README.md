@@ -13,42 +13,48 @@
 </div>
 
 ---
-
-<h3 align="center"> ‍💻 Languages and Tools:</h3>
+<h3 align="center">🛠️ Technologies</h3>
 <p align="center">
-   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/>
-   <a href="https://www.javascript.com/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-   </a> 
-   <a href="https://www.typescriptlang.org/" target="_blank">
-      <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" height="50" />
-   </a>
-   <a href="https://www.java.com/" target="_blank">
-      <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" height="50" />
-   </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-      <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" height="50" />
-   </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-      <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" height="50" />
-   </a>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="50" alt="Godot logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" style="margin: 1rem;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" style="margin: 1rem;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" style="margin: 1rem;" />
+  <a href="https://www.javascript.com/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" alt="JavaScript" style="margin: 1rem;" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50" alt="HTML" style="margin: 1rem;" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="50" alt="CSS" style="margin: 1rem;" />
+  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="50" alt="Godot" style="margin: 1rem;" />
 </p>
 
----
+<h3 align="center">📚 Currently learning</h3>
+<p align="center">
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50" alt="Java" style="margin: 1rem;" />
+  </a>
+  <a href="https://angular.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" height="50" alt="Angular" style="margin: 1rem;" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" style="margin: 1rem;" />
+  </a>
+</p>
 
-<h3 align="center"> 📱  Connect with me:</h3>
-<div align="center">
-    <a href="mailto:contato.kaiogabrieldev@gmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <a href="https://www.linkedin.com/in/kaio-gabriel-de-sousa-carvalho-baa05b313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a> 
-    <a href="https://kaio-gabriel-dev.itch.io/">
-        <img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" alt="Itch.io Badge"/>
-    </a>
-</div>
+<h3 align="center">🧰 Tools</h3>
+<p align="center">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50" alt="Git" style="margin: 1rem;" />
+  </a>
+  <a href="https://www.notion.so/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height="50" alt="Notion" style="margin: 1rem;" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="50" alt="VS Code" style="margin: 1rem;" />
+  </a>
+</p>
 
 ___
 <p align="center">
