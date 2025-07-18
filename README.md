@@ -36,9 +36,7 @@
 
 ---
 
-I'm currently pursuing a degree in Systems Analysis and Development at the Federal Institute of Piauí (IFPI).  
-I have a strong interest in programming, game development, and web technologies.  
-I'm always eager to learn and grow, continuously expanding my knowledge step by step in the world of tech.
+I'm currently pursuing a degree in Systems Analysis and Development at the Federal Institute of Piauí (IFPI). I have a strong interest in programming, game development, and web technologies. I'm always eager to learn and grow, continuously expanding my knowledge step by step in the world of tech.
 
 ---
 
