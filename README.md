@@ -1,62 +1,86 @@
-<h1 align="left">Hi, I'm Kaio Gabriel 
-    <img src="https://private-user-images.githubusercontent.com/74038190/238201079-e379a33a-b428-4385-b44f-3da16e7bac9f.gif" alt="welcome" width="40" height="40"/>
-</h1>
+# Kaio Gabriel
 
-<p align="left">🌱 I'm currently pursuing a degree in Systems Analysis and Development at the Federal Institute of Piauí (IFPI).</p>
+**`Student | Tech Enthusiast | Future Dev`**
+
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/kaio-gabriel-de-sousa-carvalho/" style="text-decoration: none;">
+    <img alt="LinkedIn" title="Connect with me on LinkedIn" 
+         src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=634781" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:kkaiogabrielk@gmail.com" style="text-decoration: none;">
+    <img alt="Gmail" title="Send me an email" 
+         src="https://custom-icon-badges.demolab.com/badge/-Gmail-282A36?style=for-the-badge&logo=gmail&logoColor=white&labelColor=634781" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/KaioGabriel-the?tab=repositories" style="text-decoration: none;">
+    <img alt="Repositories" title="My Repositories" 
+         src="https://custom-icon-badges.demolab.com/badge/-Repositories-282A36?style=for-the-badge&logo=repo&logoColor=white&labelColor=634781" />
+  </a>
+
+  <!-- Stars -->
+  <a href="https://github.com/KaioGabriel-the?tab=stars" style="text-decoration: none;">
+    <img alt="Starred Repos" title="Starred Repositories" 
+         src="https://custom-icon-badges.demolab.com/badge/-Starred%20Repos-282A36?style=for-the-badge&logo=star&logoColor=white&labelColor=634781" />
+  </a>
+
+  <!-- Followers -->
+  <a href="https://github.com/KaioGabriel-the?tab=followers" style="text-decoration: none;">
+    <img alt="Followers" title="GitHub Followers" 
+         src="https://img.shields.io/github/followers/KaioGabriel-the?style=for-the-badge&color=634781&labelColor=282A36&logo=github&logoColor=white&cacheSeconds=1" />
+  </a>
+</p>
 
 ---
 
-<h3 align="center"> 📊  GitHub Stats:</h3>
+I'm currently pursuing a degree in Systems Analysis and Development at the Federal Institute of Piauí (IFPI).  
+I have a strong interest in programming, game development, and web technologies.  
+I'm always eager to learn and grow, continuously expanding my knowledge step by step in the world of tech.
+
+---
+
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" width="30" height="30" /> Tech Stacks</h3>
+
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KaioGabriel-the&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="KaioGabriel-the" width="290">
-    <img src="https://github-readme-stats.vercel.app/api?username=KaioGabriel-the&show_icons=true&locale=en&theme=tokyonight" alt="KaioGabriel-the" width="380" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
 </div>
 
 ---
-<h3 align="center">🛠️ Technologies</h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" style="margin: 1rem;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" style="margin: 1rem;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" style="margin: 1rem;" />
-  <a href="https://www.javascript.com/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" alt="JavaScript" style="margin: 1rem;" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50" alt="HTML" style="margin: 1rem;" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="50" alt="CSS" style="margin: 1rem;" />
-  </a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="50" alt="Godot" style="margin: 1rem;" />
-</p>
 
-<h3 align="center">📚 Currently learning</h3>
-<p align="center">
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50" alt="Java" style="margin: 1rem;" />
-  </a>
-  <a href="https://angular.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" height="50" alt="Angular" style="margin: 1rem;" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" style="margin: 1rem;" />
-  </a>
-</p>
+<h3>📘 Currently Learning</h3>
 
-<h3 align="center">🧰 Tools</h3>
-<p align="center">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50" alt="Git" style="margin: 1rem;" />
-  </a>
-  <a href="https://www.notion.so/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height="50" alt="Notion" style="margin: 1rem;" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="50" alt="VS Code" style="margin: 1rem;" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</div>
 
-___
+---
+
+<h3>🧰 Tools</h3>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+</div>
+
+---
+<!-- Typing animation -->
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="785" height="600">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F1F2ED&size=18&width=500&center=true&vCenter=true&lines=Always+seeking+to+evolve;I+love+discovering+new+things;I+prefer+to+live+life+smiling" 
+      alt="Typing SVG" />
+  </a>
 </p>
